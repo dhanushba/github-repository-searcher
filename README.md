@@ -53,7 +53,7 @@ Response:
 
 ## 🏆 How to Run  
 1. **Clone the Repository**  
-git clone https://github.com/your-username/github-repository-searcher.git  
+git clone https://github.com/dhanushba/github-repository-searcher.git
 2. **Update PostgreSQL Credentials** in `application.properties`:  
 spring.datasource.url=jdbc:postgresql://localhost:5432/github_db  
 spring.datasource.username=postgres  
